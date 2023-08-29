@@ -1,3 +1,3 @@
 # KGDM Notizen auf Deutsch
 
-* [Discipleship Course](DISCIPLE.adoc)
+* [Juengerschaft](DISCIPLE.adoc)
